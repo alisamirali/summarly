@@ -4,6 +4,7 @@
 
 Make your reading easier with Summarly, an open-source tool that condenses long articles into brief and straightforward summaries.
 
+
 ### Getting Started
 
 To get started with the website, clone the repo:
